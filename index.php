@@ -74,8 +74,8 @@
 
         <?php
         }
+?>
 
-         <br>
     <h2>Lista de Pedidos</h2>
 
     <table>
